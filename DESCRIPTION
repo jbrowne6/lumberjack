@@ -1,8 +1,8 @@
 Package: rerf
 Type: Package
 Title: Randomer Forest
-Version: 1.1.3.9001
-Date: 2018-08-14
+Version: 1.1.3.9002
+Date: 2018-09-26
 Authors@R: c(
     person("James", "Browne", role = c("aut", "cre"), email = "jbrowne6@jhu.edu"),
 	  person("Tyler", "Tomita", role = "aut", email = "ttomita2@jhmi.edu"),
